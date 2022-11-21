@@ -1,0 +1,19 @@
+{
+  "name": "user-authonication",
+  "version": "1.0.0",
+  "description": "Login Logout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushdj2002/User-Authonication.git"
+  },
+  "author": "Kushal D J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushdj2002/User-Authonication/issues"
+  },
+  "homepage": "https://github.com/khushdj2002/User-Authonication#readme"
+}
